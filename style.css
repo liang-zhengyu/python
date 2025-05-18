@@ -46,10 +46,10 @@ img {
 }
 /* DeepSeek 图标样式 */
 .deepseek-icon {
-    width: 10px;          /* 图标宽度 */
-    height: 10px;         /* 图标高度 */
+    width: 5px;          /* 图标宽度 */
+    height: 5px;         /* 图标高度 */
     vertical-align: middle; /* 垂直居中对齐 */
-    margin-right: 8px;    /* 图标与文字间距 */
+    margin-right: 4px;    /* 图标与文字间距 */
     border-radius: 3px;   /* 圆角（可选） */
 }
 

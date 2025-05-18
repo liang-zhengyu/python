@@ -44,14 +44,6 @@ img {
         margin: 8px 0;   /* 小屏幕下换行显示 */
     }
 }
-/* DeepSeek 图标样式 */
-.deepseek-icon {
-    width: 5px;          /* 图标宽度 */
-    height: 5px;         /* 图标高度 */
-    vertical-align: middle; /* 垂直居中对齐 */
-    margin-right: 4px;    /* 图标与文字间距 */
-    border-radius: 3px;   /* 圆角（可选） */
-}
 
 /* 统一链接悬浮效果 */
 .footer-content a:hover .deepseek-icon {

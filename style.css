@@ -63,3 +63,9 @@ img {
     height: 16px;
   }
 }
+img {
+    max-width: 100%; /* 图片最大宽度不超过容器 */
+    height: auto;    /* 保持比例 */
+    display: block;  /* 避免下方间隙 */
+    margin: 0 auto;  /* 水平居中 */
+}
